@@ -4,7 +4,9 @@ Pacote para obter arquivos excel ou listas do Sharepoint em formato DataFrame Pa
 ## Autenticação Sharepoint
 
 É necessário ter uma conta da Microsoft com acesso a um Sharepoint.
+
 Passo-a-passo para autenticação do script:
+
 Para permitir autenticação, primeiro é necessário registrar uma aplicação no <a href='https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade'>Registro de Aplicativos do Azure</a>:
 1.	Logar no Portal do Azure (Registro de Aplicações) com a sua conta do Sharepoint.
 2.	Clique em “+Novo Registro”
